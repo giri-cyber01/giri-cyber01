@@ -29,30 +29,6 @@
   <img src="https://img.shields.io/badge/ISO%2027001-1F4E79?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-CC0000?style=for-the-badge" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔍 Web Security Scanner</h4>
-      <p>A passive web security scanner built with Flask, featuring automated PDF report generation.</p>
-      <p><i>Repo link coming soon</i></p>
-    </td>
-    <td width="50%">
-      <h4>📊 Risk Assessment Artifact</h4>
-      <p>A risk assessment project covering risk formulas, NIST RMF, ISO 27001, and risk matrices.</p>
-      <p><i>Repo link coming soon</i></p>
-    </td>
-  </tr>
-</table>
-
-> 🧩 Next up: a SIEM-style project — CLI log parser → SQLite → Flask dashboard → MITRE ATT&CK mapping.
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
