@@ -10,7 +10,6 @@
 
 - 🎓 Final-year B.Tech CSE student, specializing in **IoT & Cyber Security / Blockchain Technology**
 - 🎯 Working toward becoming a **SOC Analyst**
-- 🔭 Currently building hands-on security projects — scanners, risk assessments, and SIEM-style dashboards
 - 🌱 Learning: Git & GitHub, Python, log analysis, MITRE ATT&CK
 - 📫 Reach me here on GitHub — details coming soon
 
