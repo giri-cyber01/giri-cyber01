@@ -1,46 +1,109 @@
-<div align="center">
+# 👨‍💻 Gummadhidala Giri
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Giri+%F0%9F%91%8B;Aspiring+SOC+Analyst+%F0%9F%94%92;IoT+%26+Cyber+Security+Enthusiast;Building+in+Public+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+### Cybersecurity Student | Aspiring SOC Analyst | Networking Enthusiast
 
-</div>
-
-### 🧑‍💻 About Me
-
-- 🎓 Final-year B.Tech CSE student, specializing in **IoT & Cyber Security / Blockchain Technology**
-- 🎯 Working toward becoming a **SOC Analyst**
-- 🌱 Learning: Git & GitHub, Python, log analysis, MITRE ATT&CK
-- 📫 Reach me here on GitHub — details coming soon
+> Learning how networks work, understanding how attackers think, and building the skills to defend systems.
 
 ---
 
-### 🛠️ Skills & Tools
+## 🧑‍💻 About Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/NIST%20RMF-1F4E79?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ISO%2027001-1F4E79?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-CC0000?style=for-the-badge" />
-</p>
-### 📈 GitHub Stats
+Hello! I'm **Gummadhidala Giri**, a Computer Science Engineering student specializing in IoT and Cybersecurity.
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=giri-cyber01&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giri-cyber01&layout=compact&theme=radical&hide_border=true" />
-</div>
+I'm passionate about cybersecurity, networking, and understanding how systems can be protected against cyber threats.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giri-cyber01&theme=radical&hide_border=true" />
-</div>
+- 🎓 B.Tech Computer Science Engineering
+- 🔐 Interested in Cybersecurity and Security Operations (SOC)
+- 🌐 Learning Computer Networking and Network Security
+- 🐧 Exploring Linux and Kali Linux
+- 🧪 Practicing hands-on cybersecurity labs on TryHackMe
+- 🎯 Working towards becoming a SOC Analyst
 
 ---
 
-<div align="center">
-  <i>📌 Portfolio in progress — currently following a structured SOC Analyst roadmap.</i>
-</div>
+## 🛠️ Skills & Technologies
+
+### Networking
+- TCP/IP
+- OSI Model
+- DNS, HTTP/HTTPS
+- IP Addressing and Subnetting
+- Network Fundamentals
+
+### Cybersecurity
+- Security Fundamentals
+- Network Security
+- Vulnerability Assessment Fundamentals
+- Security Monitoring Fundamentals
+
+### Tools
+- Kali Linux
+- Wireshark
+- Nmap
+- TryHackMe
+
+### Programming
+- Python (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- CompTIA Network+ (N10-009)
+- CompTIA Security+ fundamentals
+- Linux Administration
+- Python for Cybersecurity
+- Network Traffic Analysis
+- SOC Analyst Fundamentals
+
+---
+
+## 🧪 Hands-on Learning
+
+I believe cybersecurity is best learned through practice.
+
+I'm using hands-on labs to improve my technical knowledge and develop practical skills.
+
+- TryHackMe learning paths
+- Linux command-line exercises
+- Networking labs
+- Wireshark packet analysis
+- Nmap network scanning in authorized lab environments
+
+---
+
+## 📂 My Projects & Labs
+
+| Project | Description |
+|---|---|
+| Networking Labs | Networking concepts and practical exercises |
+| Linux Labs | Linux commands and administration |
+| Wireshark Labs | Network traffic analysis |
+| Python Projects | Beginner Python scripts |
+| Cybersecurity Labs | Hands-on security learning and documentation |
+
+*More projects coming soon.*
+
+---
+
+## 📊 My Learning Philosophy
+
+- Learn the fundamentals.
+- Practice what I learn.
+- Document my progress.
+- Build real-world skills.
+- Stay consistent and keep improving.
+
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- **TryHackMe:** [My TryHackMe Profile](YOUR_TRYHACKME_URL)
+- **Email:** YOUR_PROFESSIONAL_EMAIL
+
+---
+
+⭐ *"The goal is not just to learn cybersecurity, but to understand how to protect the digital world."*
+
+**Always Learning. Always Practicing. Always Improving.**
