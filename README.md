@@ -98,9 +98,11 @@ I'm using hands-on labs to improve my technical knowledge and develop practical 
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- **TryHackMe:** [My TryHackMe Profile](YOUR_TRYHACKME_URL)
-- **Email:** YOUR_PROFESSIONAL_EMAIL
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/
+gummadhidala-giri
+)
+- **TryHackMe:** [My TryHackMe Profile]https://tryhackme.com/p/Giri9390?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=d235d8d46289&utm_source=copy&sharerId=6975df6f5389736a6a91a3d7
+- **Email:** gummadhidala.giri@gmail.com
 
 ---
 
